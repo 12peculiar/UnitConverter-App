@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Converter_Application</string>
+    <string-array name="unit">
+        <item>Kilograms(Kg)</item>
+        <item>MilliLitres(mL)</item>
+        <item>Grams(g)</item>
+        <item>Litres(L)</item>
+        <item>Centimeters(cm)</item>
+        <item>Meters(m)</item>
+
+    </string-array>
+
+    <string-array name="unit1">
+    <item>Kilograms(Kg)</item>
+    <item>Grams(g)</item>
+    <item>MilliLitres(mL)</item>
+    <item>Litres(L)</item>
+    <item>Centimeters(cm)</item>
+    <item>Meters(m)</item>
+    </string-array>
+</resources>
